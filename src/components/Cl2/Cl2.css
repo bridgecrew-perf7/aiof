@@ -1,0 +1,41 @@
+.man
+{
+width: 100%;
+height: 63px;
+left: 15px;
+top: 482px;
+background: #F1F4FB;
+border-radius: 30px;
+}
+.class2font{
+margin-top: 10px;
+margin-left: 20px;
+width: 67px;
+height: 16px;
+left: 95px;
+top: 497px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
+
+.class2small{
+margin-left: 20px;
+width: 62px;
+height: 16px;
+left: 96px;
+top: 514px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+color: rgba(27, 27, 30, 0.725524);
+}
